@@ -1,6 +1,7 @@
 {
   "name": "@rljson/io-mem",
   "version": "0.0.1",
+  "packageManager": "pnpm@10.6.2",
   "description": "In-Memory implementation of @rljson/io",
   "homepage": "https://github.com/rljson/io-mem",
   "bugs": "https://github.com/rljson/io-mem/issues",
